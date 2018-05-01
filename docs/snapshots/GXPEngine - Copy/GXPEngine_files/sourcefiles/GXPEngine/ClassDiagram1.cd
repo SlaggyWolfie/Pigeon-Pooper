@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Enemy">
+    <Position X="15.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HUD">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQRAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABSASAEEAQYAAAKkICIAIAAAQAIAAAgBQAAAAAAoECA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LevelLayer">
+    <Position X="8.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LevelLayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGame">
+    <Position X="13" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQACAAgAAAAAAAAAMAAAAAAAAAAAAAAAAAAFAAAAAA=</HashCode>
+      <FileName>MyGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OurUtils" Collapsed="true">
+    <Position X="40.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAQIAAABAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>OurUtils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player">
+    <Position X="31" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAwAAAAAAAAAAAwAAAAIAQAgACEkAgAAAAEAAAAAogA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Projectile">
+    <Position X="17.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQJAAAAAAAAACAAAAAAAQAAAAAAAAAAIAAAAAAAACA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Road">
+    <Position X="19.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQBCAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Road.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TextBox">
+    <Position X="22" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAACAAAAAAAAAIBAAAAAAAAAAAAAAAMAAAAAIAA=</HashCode>
+      <FileName>TextBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Timer">
+    <Position X="10.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Timer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Victim">
+    <Position X="28.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQAAAAgAAAAQAAAAAAAAUAAAAQgAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Victim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Wall">
+    <Position X="24.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBQBCAgAAAAAAAAEAAAAAQAAAAAAAAAABAMAAAAAAAA=</HashCode>
+      <FileName>Wall.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.AnimationSprite">
+    <Position X="28.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AoEAAAAAgQAAAAQAQAEEIAAIAAAIAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AnimationSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.AnimSprite">
+    <Position X="26.75" Y="10.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\AnimationSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Canvas">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAEQAAAAAAAAAAAAAAABAAAgCAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Canvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.BlendMode" Collapsed="true">
+    <Position X="33.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACAAABAMAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\BlendMode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Transformable" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAIAAAACQAACCADBCAAAAACAAAABkAQCAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Transformable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.FMOD" Collapsed="true">
+    <Position X="37" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>KAUFIAAEIAARAQAAKAAGQZBgRAUIQBERgiAENAUAIIU=</HashCode>
+      <FileName>GXPEngine\FMOD\FMOD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Game">
+    <Position X="13" Y="3.25" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="GXPEngine.Game.StepDelegate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GXPEngine\Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AkYAAAAAACQAAAYCYAAABAAAAABAIAAEIACAAAAQAAw=</HashCode>
+      <FileName>GXPEngine\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.GameObject" Collapsed="true">
+    <Position X="16.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIRAAACAARBEABECBAAAAAQgBJFQAAIABUAGACAAAI=</HashCode>
+      <FileName>GXPEngine\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.CollisionManager" Collapsed="true">
+    <Position X="35.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAgAAAAAAAAAAAAAACBAAAAAAAAAAAIAABAAAAAAQ=</HashCode>
+      <FileName>GXPEngine\Managers\CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Mathf" Collapsed="true">
+    <Position X="37" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAACBAAAABAgABgEkAAEAAMAAA2AAAAAACgAAEKAAAA=</HashCode>
+      <FileName>GXPEngine\Mathf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Pivot">
+    <Position X="6.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Pivot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Sound" Collapsed="true">
+    <Position X="33.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAoAAEAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.SoundChannel" Collapsed="true">
+    <Position X="35.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAACABAAAAAAIQAAAAAIAIgAAAAAAA=</HashCode>
+      <FileName>GXPEngine\SoundChannel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Sprite" Collapsed="true">
+    <Position X="23.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAQQJAIQMQAAAAAICgACAIgCAAAgQEAAAAAA=</HashCode>
+      <FileName>GXPEngine\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Input" Collapsed="true">
+    <Position X="33.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgABAAAQAAAAEQAIAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>GXPEngine\Utils\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Key" Collapsed="true">
+    <Position X="35.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YEACDAQQCBABAwCgiAAAAByUogIiEAwigAFA/v//YUE=</HashCode>
+      <FileName>GXPEngine\Utils\Key.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.MouseHandler" Collapsed="true">
+    <Position X="38.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAQAAAAAIACQgAQAQBQAAAAAYgAAAAACQAw=</HashCode>
+      <FileName>GXPEngine\Utils\MouseHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Time" Collapsed="true">
+    <Position X="38.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgAAAAAEAAAAAAAAAIAAAAAAAAAAgAAAAAAAACAA=</HashCode>
+      <FileName>GXPEngine\Utils\Time.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Utils" Collapsed="true">
+    <Position X="33.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAABAAAAAAAAAAAAAAAAAAAAJAAAABQAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Utils\Utils.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.BoxCollider">
+    <Position X="1.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAgAAADAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\BoxCollider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.Collider">
+    <Position X="1.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Collider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.WindowSize" Collapsed="true">
+    <Position X="35.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAQAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\GLContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.GLContext" Collapsed="true">
+    <Position X="40.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFAIgAAAQIiIhEQAchgAAUxAIJAACAAAABgACAKQACI=</HashCode>
+      <FileName>GXPEngine\Core\GLContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Core.Texture2D" Collapsed="true">
+    <Position X="37" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAgBBgISCEAAQARAAAAAAIBYAAAAAAAACEAAAAABA=</HashCode>
+      <FileName>GXPEngine\Core\Texture2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.Managers.UpdateManager" Collapsed="true">
+    <Position X="40.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAIAAAAAAAAQAAAAAAAABAAAAAAAAAAAIAAAAAAQAAI=</HashCode>
+      <FileName>GXPEngine\Managers\UpdateManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GXPEngine.OpenGL.GL" Collapsed="true">
+    <Position X="38.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GIMIkv8YAKVPDNATBJKwDWInUxAuGCk1ASBisEB+y1k=</HashCode>
+      <FileName>GXPEngine\OpenGL\GL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="GXPEngine.Core.Rectangle" Collapsed="true">
+    <Position X="33.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABQEQAAAAAgAAAAIAAAAAABgAAAAgAA=</HashCode>
+      <FileName>GXPEngine\Core\Rectangle.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GXPEngine.Core.Vector2" Collapsed="true">
+    <Position X="35.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>GXPEngine\Core\Vector2.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="GXPEngine.MouseEventType" Collapsed="true">
+    <Position X="33.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAQBAAAAAAAgEAAAAAAABAAAAAAEAAAAAAAAACAAAA=</HashCode>
+      <FileName>GXPEngine\Utils\MouseHandler.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
